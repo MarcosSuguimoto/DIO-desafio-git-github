@@ -35,7 +35,8 @@ Unmodified: é o estado onde o arquivo não sofreu alterações em relação a s
 
 Modified: é o estado onde o arquivo sofreu alterações em relação a sua referência.
 
-Staged: A partir do momento que o comando git add é executado em algum arquivo, ele assume o estado de preparado. Neste momento, o Git sabe que o arquivo foi modificado e agora está na área de preparação para ser consolidado.
+Staged: A partir do momento que o comando git add é executado em algum arquivo, ele assume o estado de preparado. Neste momento,
+o Git sabe que o arquivo foi modificado e agora está na área de preparação para ser consolidado.
 
 GIT: sistema de versionamento de código distribuído.
 
