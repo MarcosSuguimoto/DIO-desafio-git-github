@@ -1,0 +1,47 @@
+#Introdução ao Git e GitHub
+
+##comandos úteis para uso do Git
+
+### Windows
+- cd: permite a nevegação entre diretório quando combinado com o caminho do diretório desejado.
+- dir: retorna uma lista com o conteúdo contido naquele diretório específico.
+- mkdir: cria um diretório.
+- del/rmdir: deleta arquivos ou diretório
+
+### Unix
+- cd:permite a nevegação entre diretório quando combinado com o caminho do diretório desejado.
+- ls: retorna uma lista com o conteúdo contido naquele diretório específico.
+- mkdir: cria um diretório.
+- rm -rf: deleta arquivos ou diretório
+
+
+Outros
+- git init: inicializa um repositório git na pasta
+- git add: adiciona uma alteração no diretório ativo à área de staging.
+- git commit: captura o estado de um projeto naquele momento.
+- git status: exibe as condições do diretório de trabalho e da área de staging.
+- git push: usado para enviar o conteúdo do repositório local para um repositório remoto.
+- git clone: faz um clone do repositório remoto em seu repositório local.
+
+### Definições
+
+SHA: Secure Hash Algorithm, é um conjunto de funções hash criptográficas projetadas pela NSA.
+
+Untracked: Arquivos marcados como untracked são arquivos não monitorados pelo Git.
+
+tracked:tracked files are files that Git knows about. they can be unmodified, modified, or staged.
+
+Unmodified: é o estado onde o arquivo não sofreu alterações em relação a sua referência.
+
+Modified: é o estado onde o arquivo sofreu alterações em relação a sua referência.
+
+Staged: A partir do momento que o comando git add é executado em algum arquivo, ele assume o estado de preparado. Neste momento, o Git sabe que o arquivo foi modificado e agora está na área de preparação para ser consolidado.
+
+GIT: sistema de versionamento de código distribuído.
+
+Ambiente de desenvolvimento e o servidor: seu ambiente de desenvolvimento é local e o servidor, remoto.
+
+Arquivo tipo Markdown (.md): um arquivo que usa caracteres especiais como # para formatar o texto.
+
+Sistema distribuído: um sistema que possui múltiplas cópias de si mesmo em diferentes locais.
+
