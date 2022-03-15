@@ -1,6 +1,6 @@
-#Introdução ao Git e GitHub
+# Introdução ao Git e GitHub
 
-##comandos úteis para uso do Git
+## comandos úteis para uso do Git
 
 ### Windows
 - cd: permite a nevegação entre diretório quando combinado com o caminho do diretório desejado.
